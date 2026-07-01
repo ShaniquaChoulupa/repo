@@ -1,0 +1,77 @@
+Package: com.eggis
+Name: appsync unified
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/ai.akemi.appsyncunified_116.0_iphoneos-arm.akemi-git-235aca6cddfbdc9fa87fcb5b2aec2df37ed6d65a.deb
+Size: 51658
+MD5sum: 536009a11dad57e48a5563224eaffaff
+SHA1: e0fa412cb3c26718887edd834804c88909297079
+SHA256: 0036f28fcbdb165d4f58968a237ca9fe7b6ed33fea25b9a5eb1fc141f6bf5a09
+Section: Tweaks
+Description: 
+
+Package: com.thisislazy
+Name: solid glass2
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/SolidGlass27_1.2_Rootful.deb
+Size: 31652820
+MD5sum: 90eab144794c6adc54318e8751f33859
+SHA1: 8e055f8ca4a8a2d43d6b4ef205b9c036405e9d1e
+SHA256: b55df7bad2c2a1caea57aaeb5f0393e241b4889dfbf8955d2ec5d969c2ec878d
+Section: Tweaks
+Description: 
+
+Package: com.locktime26
+Name: locktime26
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/com.ivintagelover.locktime26_1.0_iphoneos-arm.deb
+Size: 6844156
+MD5sum: 68cbdcb53169cdad157d8807f349d9eb
+SHA1: 8a44f1d1db86c1b83f080958204babbad37b2e5c
+SHA256: a518cbcd8ec851f5f2af10aa21a96eae6209e52fcb3782d951d942e98a28876f
+Section: Tweaks
+Description: 
+
+Package: com.locktimex
+Name: locktimex
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/com.ivintagelover.locktimex_1.2_iphoneos-arm.deb
+Size: 5622074
+MD5sum: b63472ced4da3ad40db67c6a792ede09
+SHA1: 11d4f009ac03d37d6063b992dfb7678661ba1e0f
+SHA256: ac1bd0e507d4631de98a44cdf4cc32b2b24728ad86d8d429d555d523fd2e5893
+Section: Tweaks
+Description: 
+
+Package: com.discold
+Name: disc old
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/discold-0.1.1.deb
+Size: 6582
+MD5sum: a23fc764ecebdae21f1f6d87cce288ad
+SHA1: a9f19d4ccc96e833f7ee92a9da625f15f8922843
+SHA256: 33b3ebaa95754764334c46aa9ac31a5d28aee43a1590ee55c2685679406b7cdf
+Section: Tweaks
+Description: 
+
+Package: com.snowboard
+Name: snowboard
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/1.5.11-Beta3.deb
+Size: 1432650
+MD5sum: 8696d421904576aa8649532681fbf433
+SHA1: 42e9cd510f127bd12aa96169f881ae18952cc11d
+SHA256: d5c6974aa3b9a3202eb1d557144f34311aaee4e3107eb8511bdb998ede54fea4
+Section: Tweaks
+Description:

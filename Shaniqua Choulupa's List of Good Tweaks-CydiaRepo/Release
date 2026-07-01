@@ -1,0 +1,20 @@
+Origin: Shaniqua Choulupa's List of Good Tweaks
+Label: Shaniqua Choulupa's List of Good Tweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Static architecture manifest mapping suite indices.
+MD5Sum:
+ d147af7110c714777a660cca6a4ccc19 2336 Packages
+ a40b48a88c4d56952b4dc899ce3fa3b1 966 Packages.gz
+ a40b48a88c4d56952b4dc899ce3fa3b1 966 Packages.bz2
+SHA1:
+ f7cf50147c85b0628616602843823e840e79414b 2336 Packages
+ a3eb1f29514c128290ef0966d67eea86f22a375a 966 Packages.gz
+ a3eb1f29514c128290ef0966d67eea86f22a375a 966 Packages.bz2
+SHA256:
+ 464bddd87e82a19a291e3315f1a2a7b9bd2e4d9b44233c8874e6ce8d62dc86a5 2336 Packages
+ e0950a776b11323b3b7463291307b26cc3856a98e5b7603af337544ae53817d4 966 Packages.gz
+ e0950a776b11323b3b7463291307b26cc3856a98e5b7603af337544ae53817d4 966 Packages.bz2
